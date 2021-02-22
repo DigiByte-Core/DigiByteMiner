@@ -1,6 +1,16 @@
 # DigiByteMiner
 1 Click Miner for Digibyte
 
+# Important Update - February 2021
+Please note that mining with a CPU/GPU with the One-Click Miner is currently not possible -  all 5x algorithms are mined with ASIC or FPGA machines at present, making CPU/GPU mining unviable. Even with free electricity it is not worth pursuing. DigiByte 8.21.x (coming soon) will introduce two new algorithms to make CPU and GPU mining possible again:
+* RandomX, optimized for CPU mining, will likely replace SHA256
+* ProgPOW, optimized for GPU mining, will likely replace Skein
+
+If you have questions, please join the DigiByte Official Mining group on Telegram: https://t.me/dgbmining
+
+Find out more about DigiByte mining here:
+https://www.dgbwiki.com/index.php?title=DigiByte#DigiByte_Mining
+
 ## Download
 https://github.com/DigiByteMiner/DigiByteMiner/releases
 
